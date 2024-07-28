@@ -79,3 +79,154 @@ void main()
     
 }
 ```
+## Output
+```
+/tmp/WWfX7K2XFY.o
+Enter the size of the array5
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added10
+top =0 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added20
+top =1 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added30
+top =2 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 2
+OPTION 2 : POP 
+top =1 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added40
+top =2 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added50
+top =3 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 2
+OPTION 2 : POP 
+top =2 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 2
+OPTION 2 : POP 
+top =1 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added60
+top =2 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added70
+top =3 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+OPTION 1 : PUSH 
+Enter the element to be added80
+top =4 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 1
+STACK OVERFLOW 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 2
+OPTION 2 : POP 
+top =3 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 2
+OPTION 2 : POP 
+top =2 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 2
+OPTION 2 : POP 
+top =1 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 3
+OPTION 3 : DISPLAY 
+20 
+10 
+top =1 
+STACK OPERATIONS 
+1. Push 
+2. Pop 
+3. Display 
+4. Exit 
+Enter the value 4
+OPTION 4 : EXIT 
+```
+
+=== Code Exited With Errors ===
